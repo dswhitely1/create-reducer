@@ -2,17 +2,17 @@
 
 ## Install
 ```shell script
-npm i -S create-reducer
+npm i -S create-a-reducer
 ```
 
 ## Usage
 ```sh
-import { createReducer } from 'create-reducer';
+import { createReducer } from 'create-a-reducer';
 ```
 
 ## Example
 ```js
-import {createReducer } from "create-reducer";
+import { createReducer } from "create-a-reducer";
 
 const initialState = {
     isLoading: false,
