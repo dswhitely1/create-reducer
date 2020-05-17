@@ -1,0 +1,26 @@
+{
+  "name": "createReducer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dswhitely1/create-reducer.git"
+  },
+  "keywords": [],
+  "author": "Donald Whitely <dswhitely1@gmail.com> (https://www.donwhitely.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dswhitely1/create-reducer/issues"
+  },
+  "homepage": "https://github.com/dswhitely1/create-reducer#readme",
+  "devDependencies": {
+    "typescript": "^3.9.2"
+  }
+}
