@@ -1,7 +1,7 @@
 {
-  "name": "createReducer",
+  "name": "create-reducer",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple utility function to use with Redux",
   "main": "index.js",
   "files": ["lib/**/*"],
   "directories": {
