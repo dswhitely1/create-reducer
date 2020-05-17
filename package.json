@@ -1,5 +1,5 @@
 {
-  "name": "create-reducer",
+  "name": "create-a-reducer",
   "version": "1.0.0",
   "description": "A simple utility function to use with Redux",
   "main": "index.js",
