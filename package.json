@@ -1,8 +1,8 @@
 {
   "name": "create-a-reducer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple utility function to use with Redux",
-  "main": "index.js",
+  "main": "lib/index.js",
   "files": ["lib/**/*"],
   "directories": {
     "lib": "lib"
